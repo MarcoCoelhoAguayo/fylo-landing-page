@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "fylo-landing-page -d build",
+    "deploy": "fylo -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
